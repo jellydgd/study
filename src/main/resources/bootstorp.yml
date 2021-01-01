@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: study
+server:
+  port: 9100
+  servlet:
+    context-path: study
